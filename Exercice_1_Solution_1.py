@@ -11,7 +11,7 @@ def transform(chain):
     intersection.sort()
 
     # Créer une chaîne de caractères avec les entiers triés et la concaténation du nom, prénom et classe
-    nom_prenom_classe = "nom_prenom_classe"
+    nom_prenom_classe = "MAGNIKOUWE_Fabrice_MasterIA"
     result = ', '.join(map(str, intersection)) + ": " + nom_prenom_classe
 
     return result
