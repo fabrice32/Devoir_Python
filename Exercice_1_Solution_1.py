@@ -24,4 +24,4 @@ if __name__ == "__main__":
 
     arr3 = ["9, 3, 5, 7, 14", "10, 2, 6, 16, 15"]
     out = transform(arr3)
-    print(out)  # doit afficher ---> 15, 7, 5:nom_prenom_classe
+    print(out)  # doit afficher ---> :nom_prenom_classe
